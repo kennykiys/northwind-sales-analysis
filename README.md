@@ -1,2 +1,87 @@
-# northwind-sales-analysis
-Analysis of sales, customer trends and employee performance using MySQL
+# Northwind Sales Analysis 🗄️
+
+## Overview
+This project analyzes the Northwind sales database to uncover insights 
+on customer behavior, product performance, and employee sales using 
+MySQL and MySQL Workbench.
+
+## Dataset
+- **Source:** [Northwind Database](https://github.com/dalers/mywind)
+- **Type:** Sales & Orders
+- **Tables:** 20 tables including customers, orders, products, employees
+
+## Tools Used
+- MySQL 8.0
+- MySQL Workbench
+
+## Database Schema
+| Table | Description |
+|-------|-------------|
+| customers | Customer names and contact details |
+| orders | Order dates and shipping info |
+| order_details | Products per order and quantities |
+| products | Product names and prices |
+| employees | Staff info and hire dates |
+| suppliers | Supplier companies and contacts |
+| categories | Product categories |
+| shippers | Shipping companies |
+
+## Analysis Topics
+- [x] Database Exploration
+- [ ] Basic SELECT Queries
+- [ ] Filtering and Sorting
+- [ ] JOINs
+- [ ] Aggregations
+- [ ] Subqueries
+- [ ] Window Functions
+
+## Project Structure
+northwind-sales-analysis/
+
+│
+
+├── README.md
+
+├── exploration/
+
+│   └── 01_explore_tables.sql
+
+├── beginner/
+
+│   ├── 01_basic_select.sql
+
+│   ├── 02_filtering.sql
+
+│   └── 03_sorting.sql
+
+├── intermediate/
+
+│   ├── 01_joins.sql
+
+│   ├── 02_aggregations.sql
+
+│   └── 03_group_by.sql
+
+├── advanced/
+
+│   ├── 01_subqueries.sql
+
+│   └── 02_window_functions.sql
+
+└── screenshots/
+## Progress Log
+| Date | Topic | File | Status |
+|------|-------|------|--------|
+| Jun 2026 | Database Exploration | exploration/01_explore_tables.sql | ⏳ Pending |
+
+## Key Insights
+*(To be updated as analysis progresses)*
+
+## How to Run
+1. Download Northwind from [here](https://github.com/dalers/mywind)
+2. Import `northwind.sql` into MySQL Workbench
+3. Import `northwind-data.sql` into MySQL Workbench
+4. Run any `.sql` file from this repo in the query editor
+
+## Connect With Me
+- GitHub: [@kennykiys](https://github.com/kennykiys)
