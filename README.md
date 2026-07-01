@@ -72,6 +72,7 @@ northwind-sales-analysis/
 ## Progress Log
 | Date | Topic | File | Status |
 |------|-------|------|--------|
+| Jun 2026 | Database Exploration | exploration/01_explore_tables.sql | Done |
 | Jun 2026 | Database Exploration | exploration/01_explore_tables.sql | ⏳ Pending |
 
 ## Key Insights
