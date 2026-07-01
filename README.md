@@ -69,11 +69,32 @@ northwind-sales-analysis/
 │   └── 02_window_functions.sql
 
 └── screenshots/
+## Project Structure
+```
+northwind-sales-analysis/
+│
+├── README.md
+├── exploration/
+│   └── 01_explore_tables.sql
+├── customer_analysis/
+│   └── 01_customer_queries.sql
+├── product_analysis/
+│   └── 01_product_queries.sql
+├── employee_analysis/
+│   └── 01_employee_queries.sql
+├── sales_analysis/
+│   └── 01_sales_queries.sql
+└── screenshots/
+```
 ## Progress Log
 | Date | Topic | File | Status |
 |------|-------|------|--------|
-| Jun 2026 | Database Exploration | exploration/01_explore_tables.sql | Done |
-| Jun 2026 | Database Exploration | exploration/01_explore_tables.sql | ⏳ Pending |
+| 1 | Database Exploration | exploration/01_explore_tables.sql |✅Done |
+| 2 | Customer Analysis | customer_analysis/01_customer_queries.sql | ⏳ Pending |
+| 3 | Product Analysis | product_analysis/01_product_queries.sql | ⏳ Pending |
+| 4 | Employee Analysis | employee_analysis/01_employee_queries.sql | ⏳ Pending |
+| 5 | Sales Analysis | sales_analysis/01_sales_queries.sql | ⏳ Pending |
+
 
 ## Key Insights
 *(To be updated as analysis progresses)*
