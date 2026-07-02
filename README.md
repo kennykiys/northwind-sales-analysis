@@ -97,6 +97,11 @@ northwind-sales-analysis/
 
 
 ## Key Insights
+#### Data Quality
+- All 29 customers have company name, phone number and country on record but no customer email addresses 
+ are recorded in the system
+ - Email collection should be prioritized for customer communication
+
 #### Customer Analysis
 - Northwind has a total of 29 customers all based in the United States
 - California has the highest number of customers compared to other states
@@ -104,6 +109,7 @@ northwind-sales-analysis/
 - This means almost half of our customers are inactive and need follow up
 - Some customer contacts are owners of their companies making them key decision makers
 #### Product Analysis 
+- All products in our catalog are currently active, no products have been discontinued 
 
 ## How to Run
 1. Download Northwind from [here](https://github.com/dalers/mywind)
