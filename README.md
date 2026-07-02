@@ -90,14 +90,20 @@ northwind-sales-analysis/
 | Date | Topic | File | Status |
 |------|-------|------|--------|
 | 1 | Database Exploration | exploration/01_explore_tables.sql |✅Done |
-| 2 | Customer Analysis | customer_analysis/01_customer_queries.sql | ⏳ Pending |
+| 2 | Customer Analysis | customer_analysis/01_customer_queries.sql | ✅Done |
 | 3 | Product Analysis | product_analysis/01_product_queries.sql | ⏳ Pending |
 | 4 | Employee Analysis | employee_analysis/01_employee_queries.sql | ⏳ Pending |
 | 5 | Sales Analysis | sales_analysis/01_sales_queries.sql | ⏳ Pending |
 
 
 ## Key Insights
-*(To be updated as analysis progresses)*
+#### Customer Analysis
+- Northwind has a total of 29 customers all based in the United States
+- California has the highest number of customers compared to other states
+- 14 out of 29 customers have never placed an order with Northwind
+- This means almost half of our customers are inactive and need follow up
+- Some customer contacts are owners of their companies making them key decision makers
+#### Product Analysis 
 
 ## How to Run
 1. Download Northwind from [here](https://github.com/dalers/mywind)
